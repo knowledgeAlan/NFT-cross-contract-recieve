@@ -15,3 +15,9 @@
 ![image](https://github.com/knowledgeAlan/NFT-cross-contract-recieve/assets/5988231/a5cffbd2-f06d-47b0-8ba9-171d41f155b9)
 
 
+## 4: To parameter safeTransferFrom can be an external account or contract address. It can't transfer success when the contract doesn't implement the onERC721Received method. Because call _checkOnERC721Received after execute.
+
+![image](https://github.com/knowledgeAlan/NFT-cross-contract-recieve/assets/5988231/555467fe-802b-47c5-bfbd-65e45c4edbf6)
+
+
+## 5:[Video link](https://www.tiktok.com/@zcdalan/video/7323588256828820737?is_from_webapp=1&sender_device=pc&web_id=7323587886779008513)
