@@ -20,4 +20,4 @@
 ![image](https://github.com/knowledgeAlan/NFT-cross-contract-recieve/assets/5988231/555467fe-802b-47c5-bfbd-65e45c4edbf6)
 
 
-## 5:[Video link](https://www.tiktok.com/@zcdalan/video/7323588256828820737?is_from_webapp=1&sender_device=pc&web_id=7323587886779008513)
+## 5:[Tiktok link](https://www.tiktok.com/@zcdalan/video/7323588256828820737?is_from_webapp=1&sender_device=pc&web_id=7323587886779008513)
